@@ -1,6 +1,9 @@
-# 📝 Gestor de Tareas Pro.
+# 📝 Gestor de Tareas Pro
 
 Una aplicación de productividad de alto rendimiento diseñada con **JavaScript Vanilla**, enfocada en la experiencia de usuario (UX) y la integración con herramientas del sistema.
+
+## 🔗 Demo en vivo
+🚀 **[Probar la aplicación aquí](https://gerindiz.github.io/pro-task-scheduler/)**
 
 ## 🌟 Características Destacadas
 - **📅 Notificaciones en Tiempo Real:** Sistema de alertas nativas del navegador para recordatorios de tareas.
@@ -17,9 +20,9 @@ Una aplicación de productividad de alto rendimiento diseñada con **JavaScript 
 - **Manejo de Fechas:** Uso del objeto `Date` para calcular diferencias de tiempo y programar `setTimeout` de alertas.
 - **Gestión de Archivos:** Creación de `new Blob()` para permitir la descarga del evento de calendario sin backend.
 
-## ⚙️ Instalación.
+## ⚙️ Instalación
 1. Clona este repositorio.
-2. Abre `index.html` en tu navegador o usa la extensión *Live Server* de VS Code.
+2. Abre `index.html` en tu navegador.
 
 ---
-Desarrollado por [German Rindizbacher] - Conectemos en [https://www.linkedin.com/in/grindiz1989/]
+Desarrollado por **German Rindizbacher** - [Conectemos en LinkedIn](https://www.linkedin.com/in/grindiz1989/)
