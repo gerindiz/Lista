@@ -17,7 +17,7 @@ Una aplicación de productividad de alto rendimiento diseñada con **JavaScript 
 - **Manejo de Fechas:** Uso del objeto `Date` para calcular diferencias de tiempo y programar `setTimeout` de alertas.
 - **Gestión de Archivos:** Creación de `new Blob()` para permitir la descarga del evento de calendario sin backend.
 
-## ⚙️ Instalación
+## ⚙️ Instalación.
 1. Clona este repositorio.
 2. Abre `index.html` en tu navegador o usa la extensión *Live Server* de VS Code.
 
